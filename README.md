@@ -1,0 +1,1 @@
+# HoMM3-Map-From-Image
